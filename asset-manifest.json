@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.d092647f.css",
-    "main.js": "/personal-portfolio/static/js/main.7a9b27ad.js",
+    "main.js": "/personal-portfolio/static/js/main.71012c76.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/banner.png": "/personal-portfolio/static/media/banner.fd556b62144c66d6a633.png",
     "static/media/RavinduHeshan.png": "/personal-portfolio/static/media/RavinduHeshan.2b6fcdbb91ada08d4fa4.png",
@@ -30,17 +30,17 @@
     "static/media/revicons.eot": "/personal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/personal-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/personal-portfolio/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/logo.svg": "/personal-portfolio/static/media/logo.6e0a87f43cb7afd0554f22f0a8e06f66.svg",
     "static/media/nav-icon2.svg": "/personal-portfolio/static/media/nav-icon2.56ddf5403f6539525edc7be747ab4b86.svg",
     "index.html": "/personal-portfolio/index.html",
     "static/media/nav-icon3.svg": "/personal-portfolio/static/media/nav-icon3.2287b99458b61f227540f0edaf840208.svg",
     "static/media/nav-icon1.svg": "/personal-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/logo.svg": "/personal-portfolio/static/media/logo.6e0a87f43cb7afd0554f22f0a8e06f66.svg",
     "main.d092647f.css.map": "/personal-portfolio/static/css/main.d092647f.css.map",
-    "main.7a9b27ad.js.map": "/personal-portfolio/static/js/main.7a9b27ad.js.map",
+    "main.71012c76.js.map": "/personal-portfolio/static/js/main.71012c76.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d092647f.css",
-    "static/js/main.7a9b27ad.js"
+    "static/js/main.71012c76.js"
   ]
 }
