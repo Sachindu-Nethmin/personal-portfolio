@@ -102,7 +102,7 @@ export const Skills = () => {
     setTimeout(() => {
       fetchLanguages();
     }, 1000);
-  }, []);
+  }, [staticLanguages]);
 
   const getLanguageColor = (language) => {
     const colors = {
@@ -208,7 +208,7 @@ export const Skills = () => {
                 </div>
             </div>
         </div>
-        <img className="background-image-left" src={colorSharp} alt="Image" />
+        <img className="background-image-left" src={colorSharp} alt="Background decoration" />
     </section>
   )
 }
