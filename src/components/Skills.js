@@ -1,11 +1,11 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import colorSharp from "../assets/img/color-sharp.png"
 
 export const Skills = () => {
   // Static language data based on your GitHub stats
-  const staticLanguages = [
+  const staticLanguages = useMemo(() => [
     { language: 'Jupyter Notebook', percentage: 80.10 },
     { language: 'TypeScript', percentage: 8.31 },
     { language: 'Ballerina', percentage: 3.61 },
@@ -14,7 +14,7 @@ export const Skills = () => {
     { language: 'CMake', percentage: 1.35 },
     { language: 'Python', percentage: 0.88 },
     { language: 'Dart', percentage: 0.57 }
-  ];
+  ], []);
 
   const [languages, setLanguages] = useState([]);
   const [loading, setLoading] = useState(true);
