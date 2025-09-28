@@ -75,7 +75,7 @@ export const Projects = () => {
       imgUrl: projImg10,
     },
     {
-      title: "Q&A gemaration according to leture materials",
+      title: "Q&A genaration according to leture materials",
       description: "AI Development",
       imgUrl: projImg11,
     },
